@@ -1,34 +1,10 @@
 ---
-## Author
-author:
-  name: Савенкова Татьяна Александровна
-  degrees: DSc
-  orcid: 0000-0002-0877-7063
-  email: 1032253537@rudn.ru
-  affiliation:
-    - name: Российский университет дружбы народов
-      country: Российская Федерация
-      postal-code: 117198
-      city: Москва
-      address: ул. Миклухо-Маклая, д. 6
-      
-## Title
-title: Лабораторная работа №
-subtitle: Операционные системы
-license: CC BY
-date: today
-date-format: "07 марта 2026" # Example: 2025-09-06
-## i18n babel
-babel-lang: russian
-babel-otherlangs: english
-
-## Formatting pdf
-toc: false
-toc-title: Содержание
-slide_level: 2
-aspectratio: 169
-section-titles: true
-theme: default
+title: "Лабораторная работа №1"
+subtitle: "Операционные системы"
+author: "Савенкова Татьяна Александровна"
+institute: "Российский университет дружбы народов"
+date: "07 марта 2026"
+format: revealjs
 ---
 
 # Информация
