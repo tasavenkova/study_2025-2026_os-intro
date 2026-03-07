@@ -11,12 +11,24 @@ author:
       postal-code: 117198
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
+      
 ## Title
 title: Лабораторная работа №
 subtitle: Операционные системы
 license: CC BY
 date: today
 date-format: "07 марта 2026" # Example: 2025-09-06
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+## Formatting pdf
+toc: false
+toc-title: Содержание
+slide_level: 2
+aspectratio: 169
+section-titles: true
+theme: default
 ---
 
 # Информация
